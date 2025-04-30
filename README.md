@@ -4,4 +4,3 @@
 first type in terminal this command
 
 npm i 
-
