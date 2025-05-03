@@ -1,7 +1,7 @@
 
-# 🌍 Wanderlust - Travel Destination Listing & Review Platform
+# 🌍 WanderNest - Travel Destination Listing & Review Platform
 
-**Wanderlust** is a full-stack MERN (MongoDB, Express.js, React, Node.js) web application that allows users to discover, list, and review travel destinations. It serves as a community-driven platform to help travelers find amazing places and read honest user feedback.
+**WanderNest** is a full-stack MERN (MongoDB, Express.js, React, Node.js) web application that allows users to discover, list, and review travel destinations. It serves as a community-driven platform to help travelers find amazing places and read honest user feedback.
 
 ---
 
