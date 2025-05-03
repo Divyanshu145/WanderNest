@@ -37,8 +37,8 @@
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Brijesh80/Wanderlust.git
-cd wanderlust
+https://github.com/Divyanshu145/WanderNest.git
+cd wandernest
 ```
 
 2. Setup the Backend
@@ -65,7 +65,7 @@ Visit [http://localhost:3003](http://localhost:3003) in your browser to view the
 
 ## Screenshots
 
-![Screenshot 2025-04-30 194749](https://github.com/user-attachments/assets/8b1e0cfa-13ec-4d20-846e-c43d8080f8f7)
+
 ![Screenshot 2025-04-30 194817](https://github.com/user-attachments/assets/d717f0bd-51c2-4c49-bca1-16ffd9965494)
 ![Screenshot 2025-04-30 194844](https://github.com/user-attachments/assets/4058b157-0a04-425a-b080-998c304edbe1)
 ![Screenshot 2025-04-30 195406](https://github.com/user-attachments/assets/581a2e54-29b3-4e94-97a0-4a60317827b1)
